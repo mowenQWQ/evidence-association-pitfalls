@@ -2,6 +2,8 @@
 
 [中文](#中文) | [English](#english)
 
+> ⚠️ **AI 使用说明**：本作品由 AI 辅助生成（生成时间：2026-09-28）。仅供学习与参考使用，发布、引用或投入使用前请人工核实关键信息。
+
 ---
 
 ## 中文
@@ -76,8 +78,3 @@ See [SKILL.md](SKILL.md) for the full reference.
 ## License
 
 MIT
-
-## AI Usage Disclosure
-
-- 本库由 AI（Claude/三月七）起草、维护者审核定稿；案例源自真实 AI Agent 对话中的错误，已全量脱敏（项目名、地点、平台、个人信息均已泛化）
-- This library was drafted by an AI assistant and reviewed/approved by the maintainer. Cases are derived from real AI agent conversations, fully anonymized (project names, locations, platforms, and personal information have been generalized).
